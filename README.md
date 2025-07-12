@@ -4,16 +4,22 @@ Kaggle 프로젝트를 필사하며 코드와 개념을 공부하고, 매주 하
 
 ---
 
-## 📅 스터디 일정
+## 📅 학습 기록# 📝 Kaggle Practice
+
+Kaggle 프로젝트를 필사하며 코드와 개념을 공부하고, 매주 하나씩 실습해 정리합니다.
+
+---
+
+## 📅 학습 기록
 
 | 주차 | 날짜       | 주제                                                        |
 |------|------------|--------------------------------------------------------------|
-| 1주차| 2025-07-12 | 🍷 Wine Quality (분류)                                      |
-| 2주차| 2025-07- | ⛽ Fuel Consumption EDA & Prediction (회귀)                 |
-| 3주차| 2025-07- | 🔢 MNIST 이미지 분류 (DNN: Deep Neural Network)             |
-| 4주차| 2025-07- | 🖼 CIFAR10 이미지 분류 (CNN: Convolutional Neural Network)   |
-| 5주차| 2025-08- | 📝 IMDB 영화 리뷰 감정분석 (RNN: Recurrent Neural Network)  |
-| 6주차| 2025-08- | 🍿 Netflix 추천시스템 EDA & 분석                            |
+| 1주차| 2025-07-12 | Instant Gratification                                     |
+| 2주차|  | IEEE-CIS Fraud Dectection              |
+| 3주차|  | Quick, Draw! Doodle Rrecognition           |
+| 4주차|  | Bengali.AI Handwritten Grapheme Classification   |
+| 5주차|  | SIIM-ACR Pneumothorax Segmentation  |
+| 6주차|  | Jigsaw Unintended Bias in Toxicity Classification                           |
 
 ---
 
