@@ -31,11 +31,13 @@ Kaggle 프로젝트를 필사하며 코드와 개념을 공부하고, 매주 하
 
 ### 1️⃣ Instant Gratification (분류)
 - 📁 [`instant-gratification`](./instant-gratification)
-- 목표: 예측 대회에서 빠른 피드백 기반 최적화
+- 목표: Code Competition 피드백
+- 유형: Featured, 이진 분류(Binary Classification)
+- 데이터 타입: 정형
 - 주요 내용:
   - EDA 및 데이터 정규화
   - XGBoost 모델링
-  - 평가 지표: AUC
+  - 평가 지표: AUC(Area Under the Curve)
 
 ---
 
